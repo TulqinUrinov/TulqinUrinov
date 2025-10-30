@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=radical" alt="Tulqin's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulqinUrinov&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=TulqinUrinov&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TulqinUrinov&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulqinUrinov&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ---
 
