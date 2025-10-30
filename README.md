@@ -1,5 +1,12 @@
 ## Hi 👋
 
+![Tulqin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TulqinUrinov&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=TulqinUrinov&theme=radical)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-10-brightgreen)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-5-yellow)
+
+
 ### 🛠️ Texnologiyalar
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
