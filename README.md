@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋, I'm Tulqin!</h2>
+<h2 align="center">Hi👋</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=radical" alt="Tulqin's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=TulqinUrinov&theme=radical" alt="GitHub Streak" />
 </p>
@@ -41,7 +41,7 @@
 ---
 
 
-![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/snake.svg)
+![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/snake.svg) -->
 
 
 
