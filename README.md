@@ -1,4 +1,6 @@
 ## Hi 👋
+![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/snake.svg)
+
 
 
 
