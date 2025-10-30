@@ -26,19 +26,20 @@
 
 <p align="center">
   <a href="mailto:tulqinurinov005@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="45" height="45" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/TulqinUrinov" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" height="40" alt="Telegram" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="45" height="45" alt="Telegram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tulqin-urinov-6571152b7/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" height="45" alt="LinkedIn" />
   </a>
 </p>
 
 ---
+
 
 ![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/snake.svg)
 
