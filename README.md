@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋</h2>
+<h2>Hi👋</h2>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=radical" alt="Tulqin's GitHub stats" />
