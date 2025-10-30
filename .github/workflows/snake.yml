@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: "0 */12 * * *" # har 12 soatda ishlaydi
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +11,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: <TulqinUrinov>
+          github_user_name: TulqinUrinov
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
