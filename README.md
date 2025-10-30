@@ -11,12 +11,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TulqinUrinov&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-10-brightgreen" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Private%20Repos-5-yellow" alt="Private Repos" />
-</p>
-
 ---
 
 ### Technologies & Tools
