@@ -1,8 +1,12 @@
 name: Generate Snake Game from Contributions
+
 on:
   schedule:
     - cron: "0 */12 * * *" # har 12 soatda ishlaydi
   workflow_dispatch:
+
+permissions:
+  contents: write  # muhim! output branch yaratish uchun ruxsat
 
 jobs:
   build:
