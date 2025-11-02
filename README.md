@@ -1,4 +1,73 @@
-<h2>Hi</h2>
+<h1 align="center">Hi 👋, I'm Tulqin Urinov</h1>
+<h3 align="center">💻 Junior Python & Django Developer | Passionate about AI and Web Development</h3>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Django Web Projects**
+- 🌱 I’m learning **AI integration in web apps**
+- 👯 I’m looking to collaborate on **interesting open-source projects**
+- 💬 Ask me about **Python, Django, REST APIs**
+- 📫 How to reach me: **tulqinurinov005@gmail.com**
+- ⚡ Fun fact: *I love learning new tech every day*
+
+---
+
+### 🧠 Tech Stack
+
+#### 🖥️ Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=tokyonight" alt="Tulqin Urinov stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TulqinUrinov&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:tulqinurinov005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/TulqinUrinov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tulqin-urinov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💬 Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+### 🐍 Fun Section (Snake Animation)
+![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TulqinUrinov&show_icons=true&theme=radical" alt="Tulqin's GitHub stats" />
