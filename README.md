@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulqin Urinov</h1>
-<h3 align="center">💻 Junior Python & Django Developer | Passionate about AI and Web Development</h3>
+<h3 align="center">💻 Python & Django Developer | Passionate about AI and Web Development</h3>
 
 ---
 
@@ -64,9 +64,9 @@
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
+![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/snake.svg) -->
 
-### 🐍 Fun Section (Snake Animation)
-![Snake animation](https://github.com/TulqinUrinov/TulqinUrinov/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- <p align="center">
